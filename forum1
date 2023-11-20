@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fórum de CS:GO</title>
+    <link rel="stylesheet" href="forum.css">
+</head>
+
+<body>
+    <img src="" alt="">
+    <header>
+        <h1>CS:GO NEWS</h1>
+        <nav>
+          <a href="">Página Inicial</a> 
+          <a href="not.html" target="_blank">Novidades</a> 
+          <a href="https://steamcommunity.com/app/730/videos" target="_blank">Vídeos</a>
+          <a href="camp.html" target="_blank">Campeonatos</a>
+          
+        </nav>
+      </header>
+      
+       <main>   
+         <a href="">Encontros</a>
+         <a href="">Colaboração da Comunidade</a>
+         <a href="">Arte dos Fãs</a>
+         <a href="">Cosplays</a>
+        </main>
+        
+        <img src="tercsgo_huc01d3a403c050d47715d6aeed15b344f_839613_1920x1080_resize_q100_lanczos.jpg" alt="">
+    
+     <footer>
+        <p>&copy; CS:GO NEWS</p>
+        <p>Este documento é confidencial e destinado apenas para uso interno. 
+          Qualquer distribuição ou reprodução sem autorização é proibida.</p>
+     </footer>
+</body>
+
+</html>
